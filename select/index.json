@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "NANAIRO STAGE (Prod. YUC'e)",
+  "base_artist": "電音部、大賀ルキア (CV: 星川サラ)",
+  "createdAt": "2026-03-19T06:50:39.006891Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NANAIRO STAGE (Prod. YUC’e)",
+      "artist": "電音部",
+      "has_synced": true,
+      "path": "select/01_NANAIRO_STAGE_(Prod._YUC’e)_電音部.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NANAIRO STAGE (Prod. YUC'e)",
+      "artist": "大賀ルキア (CV: 星川サラ)",
+      "has_synced": false,
+      "path": "select/02_NANAIRO_STAGE_(Prod._YUC'e)_大賀ルキア_(CV__星川サラ).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "NANAIRO STAGE (Prod.YUC'e)",
+      "artist": "大賀ルキア(CV.星川サラ)",
+      "has_synced": false,
+      "path": "select/03_NANAIRO_STAGE_(Prod.YUC'e)_大賀ルキア(CV.星川サラ).txt"
+    }
+  ]
+}
